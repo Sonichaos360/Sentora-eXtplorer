@@ -1,2 +1,2 @@
-# Sentora-eXtplorer
-[Development] Sentora eXtplorer Filemanager
+# Sentora-eXtplorer TESTS
+[NOT RELEASED] Sentora eXtplorer Filemanager
