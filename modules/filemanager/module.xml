@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>Filemanager</name>
+    <version>100</version>
+    <defaultcat>File Management</defaultcat>
+    <desc>Sentora File manager for Clients.</desc>
+    <authorname>Diblet.com</authorname>
+    <authoremail>contacto@diblet.com</authoremail>
+    <authorurl>http://diblet.com/</authorurl>
+    <updateurl></updateurl>
+</module>
