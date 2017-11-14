@@ -34,6 +34,8 @@ class module_controller extends ctrl_module
         $random = self::getRandomString(20);
         $random_pass = md5($random);
         $username = $currentuser["username"];
+
+        //.htusers path in filemanager
         $file = '/etc/sentora/panel/etc/apps/filemanager/config/.htusers.php';
 
         //If exits remove old extplorer user
@@ -61,7 +63,7 @@ class module_controller extends ctrl_module
         $content = stream_get_contents(fopen($file, "r"));
 
         //Add user
-        $content = str_replace("//The array", "//The array \n         array('".$username."','".$random_pass."','/var/sentora/hostdata/".$username."/*','','1','','1',1),", $content);
+        $content = str_replace("//The array", "//The array \n         array('".$username."','".$random_pass."','/var/sentora/hostdata/".$username."/','','1','','1',1),", $content);
 
         fwrite(fopen($file, "w"),$content);
 
