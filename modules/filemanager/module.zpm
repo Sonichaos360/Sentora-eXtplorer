@@ -12,8 +12,8 @@
 
     <center>
     	<h3>Your login credentials:</h3>
-    	<strong>Username:</strong> <@ UserName @><br />
-    	<strong>Password:</strong> <@ UserPass @>
+    	<p><strong>Username:</strong> <@ UserName @></p>
+    	<p><strong>Password:</strong> <@ UserPass @></p>
     	<br />	<br />
     	<hr>
     	<a href="etc/apps/filemanager/index.php" class="btn btn-large btn-primary" target="_blank"><: Launch Filemanager :></a>
