@@ -18,7 +18,7 @@ Los directorios predeterminados para subir los archivos en Centos 7 son las sigu
 /etc/sentora/panel/modules
 
 
-## Liecencia
+## Licencia
 [Sentora](https://github.com/sentora/sentora-core) tiene la siguiente licencia: [GNU GENERAL PUBLIC LICENSE (GPL v3)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 El código se ofrece sin ningún tipo de garantía y cada quien es responsable de cómo lo utiliza.
