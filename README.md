@@ -1,5 +1,7 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # Sentora-eXtplorer TESTS
-[NOT RELEASED] [Sentora](https://github.com/sentora/sentora-core) eXtplorer Filemanager
+[Sentora](https://github.com/sentora/sentora-core) eXtplorer Filemanager
 
 
 ## Descripción
